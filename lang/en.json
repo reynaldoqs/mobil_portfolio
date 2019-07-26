@@ -1,0 +1,17 @@
+{
+  "greet" : "Hi, i'm",
+  "na_professions" : "Developer & Designer",
+  "na_description" : "This is a descripcion about me, i know i need to write more",
+  "btn_portfolio" : "Portfolio",
+  "btn_link_resume" : "Online resume",
+  "modal_options" : "Options",
+  "modal_link_github" : "View this project on GitHub",
+  "modal_link_github_description" : "Click to see full code about this project, and its repository",
+  "modal_link_details" : "View project details",
+  "detail_stack" : "Stacks",
+  "detail_live_view" : "Live view",
+  "detail_link_github" : "View on GitHub",
+  "chat_placeholder" : "Starts typing...",
+  "detail_caps" : "Project images",
+  "detail_caps_0" : "There is not more images"
+}

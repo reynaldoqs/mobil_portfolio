@@ -1,0 +1,17 @@
+{
+  "greet" : "Hola, soy",
+  "na_professions" : "Desarrollador & Disenador",
+  "na_description" : "Esta es un descripcion sobre mi trabajo y mas cosas",
+  "btn_portfolio" : "Portafolio",
+  "btn_link_resume" : "Curriculum online",
+  "modal_options" : "Opciones",
+  "modal_link_github" : "Ver este proyecto en GitHub",
+  "modal_link_github_description" : "Ver los detalles del proyecto y el repositorio en GitHub",
+  "modal_link_details" : "Ver detatalles del proyecto",
+  "detail_stack" : "Tecnologias",
+  "detail_live_view" : "Ver en vivo",
+  "detail_link_github" : "Ver en GitHub",
+  "chat_placeholder" : "Empieza a escribir...",
+  "detail_caps" : "Imagenes del proyecto",
+  "detail_caps_0" : "No existen mas imagenes"
+}
